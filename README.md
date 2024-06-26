@@ -16,4 +16,4 @@ FilamentPHP está diseñado para ser extensible, lo que significa que puedes agr
 Seguridad:
 FilamentPHP incluye características de seguridad como control de acceso y permisos, ayudando a proteger la administración de tu aplicación.
 
-Este curso es impartido por Ismael Catala y aqui tienes [su curso](https://www.youtube.com/watch?v=hZ7In0NRmME&list=PLbFjjy1sD3hqpbPGYP9bxwyd2B79V09kV).
+Este curso es impartido por Ismael Catala y aqui tienes [su lista de reproduccion](https://www.youtube.com/watch?v=hZ7In0NRmME&list=PLbFjjy1sD3hqpbPGYP9bxwyd2B79V09kV).
